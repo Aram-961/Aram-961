@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aram Istamboulian
 =========================================================================================================================================
 
-Full Stack Developer | UI UX
+Front End Developer | UI UX | @orcania
 ----------------------------
 
 I am a diligent Full Stack Developer with professional experience in Computer technician. Proficient communicator in both English and Arabic, skilled in developing plans, Teamwork, and content creation
