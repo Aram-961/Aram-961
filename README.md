@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer | UI UX | @orcania
 ----------------------------
 
-I am a diligent Full Stack Developer with professional experience in Computer technician. Proficient communicator in both English and Arabic, skilled in developing plans, Teamwork, and content creation
+I am a diligent Front End Developer with professional experience in Computer technician. Proficient communicator in both English and Arabic, skilled in developing plans, Teamwork, and content creation
 
 * 🌍  I'm based in Beirut
 * ✉️  You can contact me at [aramistamboulian961@gmail.com](mailto:aramistamboulian961@gmail.com)
