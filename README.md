@@ -8,7 +8,6 @@ Dedicated Web Developer with strong technical skills and a creative mindset. Pro
 
 * 🌍  I'm based in Beirut
 * ✉️  You can contact me at [aramistamboulian961@gmail.com](mailto:aramistamboulian961@gmail.com)
-* ⚡  I'm really Interested In Aerospace engineer and psychology
 
 ### Skills
 
