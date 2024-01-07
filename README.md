@@ -6,7 +6,7 @@ Full Stack Engineer
 
 Dedicated Web Developer with strong technical skills and a creative mindset. Proficient in reactjs , tailwindCSS, experienced in developing dynamic websites. Collaborative, detail-oriented, and passionate about innovative projects.
 
-* 🌍  I'm based in Beirut
+* 🌍  I'm based in Lebanon, Beirut
 * ✉️  You can contact me at [aramistamboulian961@gmail.com](mailto:aramistamboulian961@gmail.com)
 
 ### Skills
